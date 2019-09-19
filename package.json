@@ -1,0 +1,25 @@
+{
+  "name": "Fall2019_Bootcamp2",
+  "version": "1.0.0",
+  "description": "This is a MERN Bootcamp for CEN 3031 Fall 2019",
+  "main": "JSONtoMongo.js",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UFWebApps/Fall2019_Bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UFWebApps/Fall2019_Bootcamp/issues"
+  },
+  "homepage": "https://github.com/UFWebApps/Fall2019_Bootcamp#readme"
+}
